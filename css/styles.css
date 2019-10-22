@@ -1,8 +1,13 @@
 h1 {
   background: #ccc;
-  postion: absolute;
   width: 100%;
   top: 0;
   left: 0;
   padding: 1rem;
+}
+
+.special {
+  background: #7ee2e7;
+  border: 4px solid yellow;
+  color: #fff;
 }
